@@ -1,2 +1,2 @@
-# vac-background
-background for vac
+# vsc-background
+background for vsc
